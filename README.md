@@ -3,10 +3,10 @@
 The purpose of this assignment is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 ## Results:
 Below you will find a graph on the user based on checkout times for users
-![Outcome](Images/times by user.PNG)
+![Outcome](Images/times_by_user.PNG)
 
 Here is a graph showing the checkout times by gender
-![output data](Images/times by gender.PNG)
+![output data](Images/times_by_gender.PNG)
 
 
 
