@@ -8,6 +8,17 @@ Below you will find a graph on the user based on checkout times for users
 Here is a graph showing the checkout times by gender
 ![output data](Images/times_by_gender.PNG)
 
+This graph represents hours by gender
+![output data](Images/hours_by_gender.PNG)
+
+We also show the data by weekday hour in the graph below and gender
+![output data](Images/weekday_hours.PNG)
+
+This one is by gender, hours and user type
+![output data](Images/weekday_by_gender)
+
+## Summary:
+In summary males are far more likely to checkout and use a bikesharing program than a female. Males are also more likely to use a bikesharing program between the hours of 8am and 6pm on day of the week Monday through Friday. 
 
 
 ## Link to Dashboard:
